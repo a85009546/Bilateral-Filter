@@ -15,3 +15,4 @@ $Gs(i, j) = (1 / 2*pi*sigma_s) * exp_{- (i^{2} + j^{2}) / (2*sigma_s^{2})}$
 
 two tips to speed up the algorithm : 
 1. building the look-up table for 
+
